@@ -1,0 +1,56 @@
+.uap_login_container{
+    background-color: #ffffff;
+    padding: 8px 15px;
+    box-shadow: 0 0 5px #bdbddb;
+    border-radius: 0;
+    margin: 40px auto;
+}
+.uap-login-form-wrap{
+    text-align: center;
+    margin: 24px auto;
+    width: 100%;
+}
+.uap-login-template-2 .uap-form-line-fr {
+    text-align: right;
+}
+.uap-login-template-2 .uap-form-line-fr .uap-form-label-remember {
+    text-align: right;
+    padding: 0 4px;
+}
+
+#uap_login_form{
+    min-width: 80%;
+}
+
+.uap-login-error{
+    text-align: center;
+    color: darkred;
+}
+
+.uap-login-notice{
+    position: relative;
+    background-color: transparent;
+    color: darkred !important;
+}
+.uap-login-notice::before{
+    display: none;
+}
+
+.uap-wrapp-the-errors{
+    background: none;
+    border: none;
+}
+
+
+/* Responsive */
+@media screen and (max-width: 400px) {
+    .uap-login-form-wrap form{
+   width: 80%;
+}
+}
+@media screen and (max-width: 300px) {
+    .uap-login-form-wrap form{
+   width: 60%;
+}
+}
+/* Responsive */

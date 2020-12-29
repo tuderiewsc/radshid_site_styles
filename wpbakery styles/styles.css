@@ -1,0 +1,14 @@
+.affilate-acordion .vc_tta-panel-title{
+    font-size: 13px;
+    color: #a81010;
+}
+.affilate-acordion .vc_tta-panel-title i:before{
+    border-color:#a81010 !important;
+}
+
+#affilate-icons img{
+    padding:36px;
+}
+#affilate-icons p{
+    font-size: 1.25em;
+}

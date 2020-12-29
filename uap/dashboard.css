@@ -1,0 +1,118 @@
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item {
+    border-radius: 0;
+}
+
+.uap-ap-submenu-item:hover{
+    background-color: #333333;
+    border-radius: 0;
+    height: 100%;
+}
+.uap-public-ap-menu-subtabs{
+    border-radius: 0 !important; ;
+}
+.uap-ap-menu-item{
+    border-radius: 0 !important;
+}
+
+.uap-ap-menu{
+    border-radius: 0 ;
+}
+
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-item-selected, .uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item-selected> .uap-ap-menu-tab-item {
+    background-color: #212121 !important;
+}
+
+
+.uap-labels-register{
+    text-align: right !important;
+}
+
+.uap-content-left{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.uap-avatar-trigger .uap-upload-avatar {
+    border-color: #51baa8;
+    color: #51baa8;
+}
+.uap-avatar-trigger .uap-upload-avatar:hover {
+    background-color: #51baa8;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    text-align: right;
+    line-height: 20px;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 100%;
+}
+
+
+.uap-tos-wrap{
+    text-align: right;
+}
+
+#uap_submit_bttn{
+    border-radius: 0;
+    background-color: #2494a2 !important;
+    border-color: #2494a2 !important;
+    text-align: center;
+    font-family: iranyekan !important;
+}
+
+.uap-change-password-field-details{
+    margin: auto;
+    text-align: right;
+}
+
+.uap-account-table th , .uap-account-table td{
+    border-radius: 0;
+}
+
+.uap-product-links-items-header{
+    display: flex;
+}
+
+.uap-account-table{
+    background-color: #ffffff !important;
+}
+
+
+.uap-ap-theme-2 .uap-ap-menu ul {float:right;}
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-menu-tab-item {float:right;}
+.uap-ap-theme-2 .uap-ap-menu .uap-public-ap-menu-subtabs .uap-ap-menu-item a {padding-right:1px;}
+.uap-ap-theme-2 .uap-ap-menu .fa-uap {padding-left:5px;}
+
+.uap-ap-theme-2 .uap-ap-menu .uap-ap-submenu-item {float:right;}
+
+.uap-user-page-top-wrapper .uap-middle-side {float:right; margin-right:20px;}
+.uap-user-page-top-wrapper .uap-right-side {float:left;}
+.uap-user-page-top-wrapper .uap-left-side {float:right;}
+.uap-user-page-top-wrapper .uap-stats-label, .uap-user-page-top-wrapper .uap-stats-content, .uap-user-page-top-wrapper .uap-top-achievement .uap-stats-label
+{font-family:iranyekan !important;}
+a,p,div,td,th,input,h1,h2,h3,h4,h5,h6,li,ul, .uap-special-label {font-family: iranyekan !important;}
+
+
+/*** Style for theme 3  ***/
+.uap-ap-theme-3 .uap-ap-menu ul {float:right;}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item {float:right;}
+.uap-ap-theme-3 .uap-ap-menu .uap-public-ap-menu-subtabs .uap-ap-menu-item a {padding-right:1px;}
+.uap-ap-theme-3 .uap-ap-menu .fa-uap {padding-left:5px;}
+.uap-ap-theme-3 .uap-ap-menu .uap-ap-submenu-item {float:right;}
+
+.uap-user-page-content a {color:rgb(12, 108, 169); text-decoration:solid;
+}
+.uap-ap-theme-4 .uap-ap-menu .uap-ap-menu-tab-item {float:right;}
+.uap-ap-theme-4 .uap-ap-menu .uap-ap-submenu-item {float:right;}
+.uap-ap-theme-4 .uap-ap-menu .fa-uap {padding-left:10px !important; padding-right:0;}
+
+.uap-product-links-wrapper, .uap-product-links-search-bar-wrapper, .uap-product-links-items-header, .uap-product-links-items-wrapper, .uap-product-links-single-item {float:right; width:100%}
+.uap-product-links-category, .uap-product-links-count-wrapper {float:right;}
+.uap-product-links-search-wrapper {float:left; width:75%;}
+.uap-user-page-content input[type=submit], .uap-user-page-content input[type=text], .uap-user-page-content select {text-align:right;}
+.uap-product-links-order-wrapper {float:left; left:2%;}
+.uap-product-links-items-header div {float:right; text-align:center;}
+.uap-single-product-link-wrapper {width:25%;}
+.uap-single-product-image-wrapp, .uap-single-product-link-wrapper, .uap-single-product-name, .uap-single-product-price, .uap-single-product-rewards {float:right; text-align:right;}
+.uap-account-summary-month-title {float:right ;}
+.uap-col-xs-1, .uap-col-xs-10, .uap-col-xs-11, .uap-col-xs-12, .uap-col-xs-2, .uap-col-xs-3, .uap-col-xs-4, .uap-col-xs-5, .uap-col-xs-6, .uap-col-xs-7, .uap-col-xs-8, .uap-col-xs-9 {float:right;}

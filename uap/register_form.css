@@ -1,0 +1,78 @@
+.uap_register_container{
+    background-color: #ffffff;
+    padding: 8px 15px;
+    box-shadow: 0 0 5px #bdbddb;
+    border-radius: 0;
+    margin: 40px auto;
+}
+
+.uap-register-form{
+    text-align: center;
+    margin: 24px auto;
+    min-width: 80%;
+}
+.uap-register-form a,p,div,td,th,input,h1,h2,h3,h4,h5,h6,li,ul{
+    font-family: iranyekan !important;
+}
+
+.uap-labels-register{
+    text-align: right !important;
+}
+
+#top .main_color .input-text, #top .main_color input[type='text'], #top .main_color input[type='input'], #top .main_color input[type='password'], #top .main_color input[type='email'], #top .main_color input[type='number'], #top .main_color input[type='url'], #top .main_color input[type='tel'], #top .main_color input[type='search'], #top .main_color textarea, #top .main_color select {
+    margin: 0;
+}
+.uap-register-notice{
+    text-align: right;
+}
+
+.uap-content-left{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.uap-avatar-trigger .uap-upload-avatar {
+    border-color: #51baa8;
+    color: #51baa8;
+}
+.uap-avatar-trigger .uap-upload-avatar:hover {
+    background-color: #51baa8;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    text-align: right;
+    line-height: 20px;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 100%;
+}
+
+
+.uap-tos-wrap{
+    text-align: right;
+}
+
+#uap_submit_bttn{
+    border-radius: 0;
+    background-color: #2494a2 !important;
+    border-color: #2494a2 !important;
+    text-align: center;
+    font-family: iranyekan !important;
+}
+
+
+
+/* Responsive */
+@media screen and (max-width: 400px) {
+    .uap-register-form form{
+   width: 80%;
+}
+}
+@media screen and (max-width: 300px) {
+    .uap-register-form form{
+   width: 60%;
+}
+}
+/* Responsive */
+
+
+

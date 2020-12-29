@@ -1,0 +1,20 @@
+.uap_forgot_password_container{
+    background-color: #ffffff;
+    padding: 8px 15px;
+    box-shadow: 0 0 5px #bdbddb;
+    border-radius: 0;
+    margin: 40px auto;
+}
+
+.uap-pass-form-wrap{
+    text-align: center ;
+    width: 100% ;
+    margin: 24px auto ;
+}
+
+.uap-login-template-2 .uap-form-submit input {
+    background: none repeat scroll 0 0 #2494a2 !important;
+    border-color: #2494a2 !important;
+}
+
+
