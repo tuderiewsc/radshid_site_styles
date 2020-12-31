@@ -8,6 +8,10 @@ body{
     color: #fff;
 }
 
+.header_color .sub_menu>ul>li>a, .header_color .sub_menu>div>ul>li>a, .header_color .main_menu ul:first-child>li>a, #top .header_color .main_menu .menu ul .current_page_item>a, #top .header_color .main_menu .menu ul .current-menu-item>a, #top .header_color .sub_menu li ul a {
+    color: #1c272b !important;
+}
+
 button.mfp-close {
     color: black !important;
     margin: 4px 10px;
@@ -640,7 +644,7 @@ h3.slide-entry-title a{
 }
 
 .avia-data-table.avia_pricing_minimal td {
-    color: #eee !important;
+    color: #eee ;
 }
 
 .avia-table {
@@ -1372,7 +1376,14 @@ p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-rece
 }
 
 .tab-download-container .button_download a:hover {
-    background-color: #2a1b3d !important;
+    background-color: #1c272b !important;
+}
+
+.single_download_container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: center;
 }
 
 /* Uap Default CSS */
@@ -1519,22 +1530,27 @@ p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-rece
 
 /* Affilate Levels Table */
 table.affilate_levels tr.topRow th, tr.topRow td {
-    background-color: #2a1b3d !important;
+    background-color: #1c272b !important;
     border: 1px solid #bdbddb;
-    font-size: 11px;
+    font-size: 15px;
     border-radius: 0;
     text-align: center;
     font-weight: bold;
     color: #eeeeee !important;
 }
+table.affilate_levels strong {
+    color: inherit !important;
+}
+
 table.affilate_levels tr th, tr td {
     background-color: #ffffff !important;
     border-radius: 0 !important;
     text-align: center !important;
-    font-size: 10px !important;
+    font-size: 13px !important;
     font-weight: normal !important;
     border: 1px solid #bdbddb !important;
-    color: #757575 !important;
+    color: #424242 !important;
+    vertical-align: middle;
 }
 /* Affilate Levels Table */
 

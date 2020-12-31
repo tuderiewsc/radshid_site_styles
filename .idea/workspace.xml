@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3301224-c0c0-4bbd-938c-4593796c64d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/radshid custom styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/radshid custom styles.css" afterDir="false" />
     </list>
@@ -17,20 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/radshid custom styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="43">
-              <caret line="1518" lean-forward="true" selection-start-line="1518" selection-end-line="1518" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="144">
+              <caret line="6" column="29" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -47,7 +37,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>searchsubmit</find>
       <find>width: 100%</find>
       <find>post-meta-infos</find>
       <find>post-meta</find>
@@ -77,10 +66,12 @@
       <find>table</find>
       <find>.uap-ap-theme-3 .uap-ap-menu</find>
       <find>#444</find>
+      <find>2a1b3d</find>
     </findStrings>
     <replaceStrings>
       <replace>#2997ab</replace>
       <replace>/*font-family: vazir;*/</replace>
+      <replace>1c272b</replace>
     </replaceStrings>
     <dirStrings>
       <dir>D:\NEW\Radshid\Others\site</dir>
@@ -99,8 +90,8 @@
         <option value="$PROJECT_DIR$/uap/login_form.css" />
         <option value="$PROJECT_DIR$/uap/register_form.css" />
         <option value="$PROJECT_DIR$/wpbakery styles/styles.css" />
-        <option value="$PROJECT_DIR$/radshid custom styles.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/radshid custom styles.css" />
       </list>
     </option>
   </component>
@@ -139,7 +130,7 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -290,7 +281,9 @@
       <workItem from="1608990524482" duration="25000" />
       <workItem from="1608990790976" duration="281000" />
       <workItem from="1609221398825" duration="784000" />
-      <workItem from="1609227265593" duration="3129000" />
+      <workItem from="1609227265593" duration="3325000" />
+      <workItem from="1609322564663" duration="1943000" />
+      <workItem from="1609392119977" duration="2210000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1589926811546</created>
@@ -310,13 +303,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264269000" />
+    <option name="totallyTimeSpent" value="268618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15911485" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15911485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -328,7 +321,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3277405" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32997763" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -451,17 +444,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/radshid custom styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="1518" lean-forward="true" selection-start-line="1518" selection-end-line="1518" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/radshid custom styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="29" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="29" />
         </state>
       </provider>
     </entry>
