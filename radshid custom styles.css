@@ -463,7 +463,6 @@ li.av-share-link a {
 }
 .post-entry p {
     font-size: 1.1em;
-    /*font-family: vazir;*/
     text-align: justify;
     line-height: 2;
     color: #212121;
@@ -558,10 +557,10 @@ span.copyright{
     padding: 6px;
 }
 .inner_product_header_cell .woocommerce-Price-amount{
-    font-size: 20px !important;
+    font-size: 1em !important;
 }
 .inner_product_header_cell .woocommerce-Price-amount .woocommerce-Price-currencySymbol{
-    font-size: 20px !important;
+    font-size: 1em !important;
 }
 
 .inner_product .avia_cart_buttons{
@@ -572,8 +571,9 @@ span.copyright{
     background-color: #D50000; !important;
 }
 #scroll-top-link{
-    bottom: 24px;
-    right: 100px;
+    bottom: 15px;
+    right: 20px;
+    left:unset;
     background-color: #1c272b;
     border: 1px solid #EEEEEE;
 }
@@ -584,7 +584,6 @@ span.copyright{
 #top .pagination .current, #top .pagination a, #top .fullsize .template-blog .pagination a {
     margin-right: 0;
 }
-
 
 
 form.woocommerce-cart-form td , form.woocommerce-cart-form th{
@@ -837,7 +836,7 @@ ul.sub-menu li.menu-item-has-children >a::after{
 }
 
 label#recaptcha-anchor-label {
-    font-family: iranyekan,vazir,Sans-serif !important;
+    font-family: iranyekan,Samim,Sans-serif !important;
 }
 
 img.full-width-img{
@@ -1042,7 +1041,7 @@ img.full-width-img{
     font-size: 20px !important;
 }
 .woo-price p::before{
-    content: 'قیمت برای شما: ';
+    content: 'قيمت براي شما: ';
     color: initial;
 }
 .av-masonry {
@@ -1106,7 +1105,7 @@ form.cart button[type='submit']{
 .vc_custom_heading.vc_gitem-post-data.vc_gitem-post-data-source-post_title div{
     font-size: 13px !important;
     font-weight: bold !important;
-    font-family: iranyekan,vazir,Sans-serif !important;
+    font-family: iranyekan,Samim,Sans-serif !important;
     margin: 15px auto;
 }
 
@@ -1279,14 +1278,7 @@ p.stock.in-stock {
 }
 
 span.woocommerce-Price-amount.amount {
-    font-family: vazir;
-}
-
-#top div.woocommerce-message {
-    border-color: #2494a2;
-    background-color: #2494a2;
-    padding: 10px;
-}
+    font-family: Samim,Sans-serif !important}
 
 .woocommerce-error li{
     list-style-type: none;
@@ -1363,6 +1355,7 @@ p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-rece
 
 .single_download_container {
     display: flex;
+    flex-flow: row nowrap;
     justify-content: space-between;
     align-items: center;
     align-content: center;
@@ -1391,12 +1384,31 @@ p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-rece
 }
 
 #top div.woocommerce-message {
-    border-color: #1c272b !important;
-    background-color: #1c272b !important;
+    border-color: #1c272b;
+    background-color: #1c272b;
     color: #eeeeee;
     text-align: center;
-    padding: 150px 30px;
+    padding: 20px;
 }
+
+.avia_start_animation .iconlist_icon{
+    background-color: #1c272b !important;
+}
+
+button.wpforms-submit{
+    background-color: #1c272b !important;
+    color: #eee !important;
+}
+
+.sidebar-content span{
+    font-family: iranyekan,Samim,Sans-serif !important}
+
+.html_av-overlay-side .av-burger-overlay-scroll{
+    width: 100% !important;
+}
+
+
+
 
 
 /* Uap Default CSS */
@@ -1411,11 +1423,11 @@ p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-rece
 .uap-user-page-top-wrapper .uap-right-side {float:left;}
 .uap-user-page-top-wrapper .uap-left-side {float:right;}
 .uap-user-page-top-wrapper .uap-stats-label, .uap-user-page-top-wrapper .uap-stats-content, .uap-user-page-top-wrapper .uap-top-achievement .uap-stats-label
-{font-family:iranyekan !important;}
-.uap-special-label {font-family: iranyekan !important;}
+{font-family: iranyekan,Samim,Sans-serif !important;}
+.uap-special-label {font-family: iranyekan,Samim,Sans-serif !important;}
 
 .uap-user-page-wrapper a,p,div,td,th,h1,h2,h3,h4,h5,h6,li,ul{
-    font-family: iranyekan !important;
+    font-family: iranyekan,Samim,Sans-serif !important;
 }
 
 
@@ -1491,7 +1503,7 @@ p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-rece
     border-radius: 0 ;
 }
 /*.uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-item-selected, .uap-ap-theme-3 .uap-ap-menu .uap-ap-menu-tab-item-selected {*/
-    /*background-color: #212121 !important;*/
+/*background-color: #212121 !important;*/
 /*}*/
 .uap-labels-register{
     text-align: right !important;
@@ -1522,7 +1534,7 @@ p.woocommerce-notice.woocommerce-notice--success.woocommerce-thankyou-order-rece
     background-color: #2494a2 !important;
     border-color: #2494a2 !important;
     text-align: center;
-    font-family: iranyekan !important;
+    font-family: iranyekan,Samim,Sans-serif !important;
 }
 .uap-change-password-field-details{
     margin: auto;
@@ -1582,16 +1594,17 @@ table.affilate_levels tr th, tr td {
 /* Uap Custom Dashboard CSS */
 
 
+
+
+
 /* Responsive */
 @media screen and (max-width: 768px) {
+
     .responsive .logo {
         padding-right: 25px !important;
     }
     .responsive #scroll-top-link {
-        display: block;
-        bottom: 120px;
-        right: unset;
-        left: 10px;
+        display: none;
     }
     #top .commentlist ul {
         margin: 0;
@@ -1688,8 +1701,8 @@ table.affilate_levels tr th, tr td {
         color: #EEEEEE !important;
     }
     .responsive .top_tab .tab.fullsize-tab {
-        color: #EEEEEE;
-        background-color: #559eab;
+        color: #1c272b;
+        background-color: #ffffff;
     }
     #top .main_color .tabcontainer .tab:hover {
         color: #EEEEEE;
@@ -1752,6 +1765,24 @@ table.affilate_levels tr th, tr td {
     }
     h1.site_title {
         font-size: 18px ;
+    }
+
+    .single_download_container{
+        flex-flow: row wrap;
+    }
+
+
+    .single_download_container {
+        flex-flow: row wrap;
+    }
+    .single_download_container .file_title h4 {
+        font-size: 11px;
+    }
+    .single_download_container .button_download {
+        width: 100%;
+    }
+    .single_download_container .button_download a {
+        font-size: 10px;
     }
 }
 @media screen and (max-width: 400px) {
