@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c3301224-c0c0-4bbd-938c-4593796c64d6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/radshid custom styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/radshid custom styles.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -19,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/radshid custom styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="573" column="17" lean-forward="true" selection-start-line="573" selection-start-column="17" selection-end-line="573" selection-end-column="17" />
+            <state relative-caret-position="83">
+              <caret line="1520" column="1" lean-forward="true" selection-start-line="1520" selection-start-column="1" selection-end-line="1520" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -37,11 +38,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>form.cart button[type='submit']</find>
-      <find>a2a</find>
-      <find>yith-wcwl-add-button</find>
-      <find>entry-content</find>
-      <find>read-more-link</find>
       <find>slide-entry-excerpt</find>
       <find>yekan</find>
       <find>woo-features</find>
@@ -51,7 +47,6 @@
       <find>uap_login_form</find>
       <find>micon</find>
       <find>Material Icons</find>
-      <find>woocommerce-error</find>
       <find>material-icons</find>
       <find>Material</find>
       <find>uap-register-form</find>
@@ -63,10 +58,16 @@
       <find>2a1b3d</find>
       <find>2997ab</find>
       <find>logo</find>
-      <find>#top div.woocommerce-message</find>
       <find>vazir</find>
       <find>font-family</find>
+      <find>#av-burger-menu-ul li a</find>
+      <find>customer_login</find>
+      <find>woocommerce-error</find>
+      <find>#top div.woocommerce-message</find>
       <find>#scroll-top-link</find>
+      <find>uap_submit_bttn</find>
+      <find>uap-login-template-2</find>
+      <find>burg</find>
     </findStrings>
     <replaceStrings>
       <replace>#2997ab</replace>
@@ -85,13 +86,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Survey form.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/uap/forgotPass_form.css" />
         <option value="$PROJECT_DIR$/uap/dashboard.css" />
         <option value="$PROJECT_DIR$/uap/login_form.css" />
         <option value="$PROJECT_DIR$/uap/register_form.css" />
         <option value="$PROJECT_DIR$/wpbakery styles/styles.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/radshid custom styles.css" />
       </list>
     </option>
@@ -295,7 +296,16 @@
       <workItem from="1609929126081" duration="5537000" />
       <workItem from="1610006909319" duration="648000" />
       <workItem from="1610171284039" duration="45000" />
-      <workItem from="1610173133738" duration="2900000" />
+      <workItem from="1610173133738" duration="3565000" />
+      <workItem from="1610363450812" duration="3198000" />
+      <workItem from="1610432965635" duration="5824000" />
+      <workItem from="1610537468444" duration="2665000" />
+      <workItem from="1610608256194" duration="2732000" />
+      <workItem from="1610780028863" duration="7595000" />
+      <workItem from="1610965609684" duration="1984000" />
+      <workItem from="1611035000413" duration="294000" />
+      <workItem from="1611211446176" duration="5813000" />
+      <workItem from="1611384675891" duration="108000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1589926811546</created>
@@ -315,11 +325,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="288860000" />
+    <option name="totallyTimeSpent" value="319738000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15911485" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -333,7 +342,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3277405" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.39261746" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.39261746" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -410,17 +419,6 @@
     <entry file="file://$PROJECT_DIR$/before/2020-05-26_085232.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/uap/login_form.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
@@ -463,10 +461,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="n#style#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#h1#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/radshid custom styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="573" column="17" lean-forward="true" selection-start-line="573" selection-start-column="17" selection-end-line="573" selection-end-column="17" />
+        <state relative-caret-position="83">
+          <caret line="1520" column="1" lean-forward="true" selection-start-line="1520" selection-start-column="1" selection-end-line="1520" selection-end-column="1" />
         </state>
       </provider>
     </entry>
